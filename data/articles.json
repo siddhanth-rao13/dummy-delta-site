@@ -1,6 +1,12 @@
 [
   {
     "id": 1,
+    "title": "Article Two",
+    "date": "2026-02-19",
+    "file": "articles/apple_xcode.html"
+  },
+  {
+    "id": 2,
     "title": "Article One",
     "date": "2026-01-10",
     "file": "articles/apple_golf.html"

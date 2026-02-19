@@ -10,5 +10,11 @@
     "title": "Article Two",
     "date": "2026-01-25",
     "file": "articles/article2.html"
+  },
+  {
+    "id": 3,
+    "title": "Article Three",
+    "date": "2026-02-19",
+    "file": "articles/article3.html"
   }
 ]

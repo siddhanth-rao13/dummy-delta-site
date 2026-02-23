@@ -1,13 +1,13 @@
 {
   "companyName": "Dummy-Vassar Website",
-  "aum": "USD 125 Billion",
+  "aum": "USD 500 Million",
   "contact": {
     "address": "12 Finance Avenue, New York, USA",
     "phone": "+1-212-555-0101",
     "email": "info@dummyvassar.com"
   },
   "leadership": [
-    {"name": "John Carter", "role": "Founder"},
-    {"name": "Emily Stone", "role": "Fund Manager"}
+    {"name": "Aarav Mehta", "role": "CEO"},
+    {"name": "Elena Kovács", "role": "Senior Fund Manager"}
   ]
 }
